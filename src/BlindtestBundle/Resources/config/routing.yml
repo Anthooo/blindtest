@@ -1,0 +1,3 @@
+blindtest_homepage:
+    path:     /
+    defaults: { _controller: BlindtestBundle:Default:index }
